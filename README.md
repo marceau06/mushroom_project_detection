@@ -72,5 +72,3 @@ mushroom_project_detection/
 ## 👤 Auteur
 
 **Marceau LÊ** - Projet Alyra
-
----****
