@@ -6,8 +6,8 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 
 # CONFIG
-ML_MODEL_PATH = "../models/mushroom_machine_learning.pkl"
-DL_MODEL_PATH = "../models/mushroom_deep_learning.keras"
+ML_MODEL_PATH = "./models/mushroom_machine_learning.pkl"
+DL_MODEL_PATH = "./models/mushroom_deep_learning.keras"
 IMG_SIZE = (128, 128)
 
 # Classes pour le DL 
